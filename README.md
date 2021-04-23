@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericsnis
+- 👋 Hi, I’m @EricSnis
 - I am a molecular biologist trained in microbiology & genetics.
 - 👀 I’m interested in microbiology, genetics, 3D printing, electronics & woodworking.
 
